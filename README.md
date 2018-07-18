@@ -20,7 +20,7 @@ This has been tested on tvOS 11.4.1/Apple TV 4th gen.
 
 1. Clone repo
 3. Open the .xcworkspace in Xcode
-4. Select your team in the "Haha Stream" target settings
+4. Select your team in the "hehestreams" target settings
 5. Build and run!
 
 # Questions?
