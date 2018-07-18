@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.7.3)
+  - BitmovinPlayer (2.8.0)
+  - Nuke (7.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - BitmovinPlayer (from `https://github.com/bitmovin/bitmovin-player-ios-sdk-cocoapod.git`, tag `2.8.0`)
+  - Nuke (~> 7.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Nuke
+
+EXTERNAL SOURCES:
+  BitmovinPlayer:
+    :git: https://github.com/bitmovin/bitmovin-player-ios-sdk-cocoapod.git
+    :tag: 2.8.0
+
+CHECKOUT OPTIONS:
+  BitmovinPlayer:
+    :git: https://github.com/bitmovin/bitmovin-player-ios-sdk-cocoapod.git
+    :tag: 2.8.0
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  BitmovinPlayer: a6a7c17f6cd1b0fb4e99bfb212c97ad8225147b3
+  Nuke: 3680b7186b18f84a5e9e283bfce4357bfd70fdf9
+
+PODFILE CHECKSUM: e00855cb10ba872e80d33388d907dc29035d1de2
+
+COCOAPODS: 1.5.3
